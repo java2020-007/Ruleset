@@ -1,12 +1,12 @@
 # 推特消息
-DOMAIN-KEYWORD,twitter,📲 推特消息
-DOMAIN-SUFFIX,periscope.tv,📲 推特消息
-DOMAIN-SUFFIX,pscp.tv,📲 推特消息
-DOMAIN-SUFFIX,t.co,📲 推特消息
-DOMAIN-SUFFIX,twimg.co,📲 推特消息
-DOMAIN-SUFFIX,twimg.com,📲 推特消息
-DOMAIN-SUFFIX,twimg.org,📲 推特消息
-DOMAIN-SUFFIX,twitpic.com,📲 推特消息
-DOMAIN-SUFFIX,twitter.com,📲 推特消息
-DOMAIN-SUFFIX,twitter.jp,📲 推特消息
-DOMAIN-SUFFIX,vine.co,📲 推特消息
+DOMAIN-KEYWORD,twitter
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twimg.org
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,vine.co
