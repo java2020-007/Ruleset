@@ -1,20 +1,20 @@
 #谷歌
-DOMAIN,lens.l.google.com,🌍 谷歌
-DOMAIN-KEYWORD,google,🌍 谷歌
-DOMAIN-KEYWORD,gmail,🌍 谷歌 
-DOMAIN-SUFFIX,1e100.net,🌍 谷歌
-DOMAIN-SUFFIX,2mdn.net,🌍 谷歌
-DOMAIN-SUFFIX,app-measurement.net,🌍 谷歌
-DOMAIN-SUFFIX,g.co,🌍 谷歌
-DOMAIN-SUFFIX,ggpht.com,🌍 谷歌
-DOMAIN-SUFFIX,goo.gl,🌍 谷歌
-DOMAIN-SUFFIX,googleapis.cn,🌍 谷歌
-DOMAIN-SUFFIX,googleapis.com,🌍 谷歌
-DOMAIN-SUFFIX,gstatic.cn,🌍 谷歌
-DOMAIN-SUFFIX,gstatic.com,🌍 谷歌
-DOMAIN-SUFFIX,gvt0.com,🌍 谷歌
-DOMAIN-SUFFIX,gvt1.com,🌍 谷歌
-DOMAIN-SUFFIX,gvt3.com,🌍 谷歌
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🌍 谷歌
-IP-CIDR,74.125.0.0/16,🌍 谷歌,no-resolve
-IP-CIDR,173.194.0.0/16,🌍 谷歌,no-resolve
+DOMAIN,lens.l.google.com
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,gmail 
+DOMAIN-SUFFIX,1e100.net
+DOMAIN-SUFFIX,2mdn.net
+DOMAIN-SUFFIX,app-measurement.net
+DOMAIN-SUFFIX,g.co
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gstatic.cn
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gvt0.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+IP-CIDR,74.125.0.0/16,no-resolve
+IP-CIDR,173.194.0.0/16,no-resolve
