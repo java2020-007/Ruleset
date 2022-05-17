@@ -1,4 +1,5 @@
 # 迪士尼
+PROCESS-NAME,com.modyolo.disney
 DOMAIN,cdn.registerdisney.go.com
 DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,bam.nr-data.net
