@@ -20,10 +20,6 @@ show-error-page-for-reject = true
 dns-server = system, 119.29.29.29, 223.5.5.5, 223.6.6.6
 skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, localhost, *.local, *.crashlytics.com, *.edu.cn, *.evernote.com, *.yinxiang.com
 exclude-simple-hostnames = true
-[Replica]
-hide-apple-request = true
-hide-crash-reporter-request = true
-hide-udp = false
 
 custom_proxy_group=🚀 手动选择`select`!!GROUPID=0
 custom_proxy_group=🌍 GlobalMedia`select`[]🚀 手动选择
