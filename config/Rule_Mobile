@@ -26,5 +26,4 @@ custom_proxy_group=🐟 漏网之鱼`select`[]🚀 手动选择
 exclude_remarks=(官网|群组|流量|官方|网址)
 enable_rule_generator=true
 overwrite_original_rules=true
-http-listen = 127.0.0.1:6152
-socks5-listen = 127.0.0.1:6153
+
