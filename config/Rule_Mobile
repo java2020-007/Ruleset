@@ -9,18 +9,6 @@ ruleset=🌍 GlobalMedia,https://raw.githubusercontent.com/java2020-007/Ruleset/
 ruleset=🎯 全球直连,[]GEOIP,CN
 ruleset=🐟 漏网之鱼,[]FINAL
 
-[General]
-loglevel = notify
-internet-test-url = http://wifi.vivo.com.cn/generate_204
-proxy-test-url = http://cp.cloudflare.com/generate_204
-test-timeout = 5
-http-listen = 127.0.0.1:6152
-socks5-listen = 127.0.0.1:6153
-show-error-page-for-reject = true
-dns-server = system, 119.29.29.29, 223.5.5.5, 223.6.6.6
-skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, localhost, *.local, *.crashlytics.com, *.edu.cn, *.evernote.com, *.yinxiang.com
-exclude-simple-hostnames = true
-
 custom_proxy_group=🚀 手动选择`select`!!GROUPID=0
 custom_proxy_group=🌍 GlobalMedia`select`[]🚀 手动选择
 custom_proxy_group=💻 Netflix`select`[]🚀 手动选择`!!GROUPID=!0!!(新加坡|坡|狮城|SG|Singapore)
@@ -38,4 +26,13 @@ custom_proxy_group=🐟 漏网之鱼`select`[]🚀 手动选择
 exclude_remarks=(官网|群组|流量|官方|网址)
 enable_rule_generator=true
 overwrite_original_rules=true
+internet-test-url = http://wifi.vivo.com.cn/generate_204
+proxy-test-url = http://cp.cloudflare.com/generate_204
+test-timeout = 5
+http-listen = 127.0.0.1:6152
+socks5-listen = 127.0.0.1:6153
+show-error-page-for-reject = true
+dns-server = system, 119.29.29.29, 223.5.5.5, 223.6.6.6
+skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, localhost, *.local, *.crashlytics.com, *.edu.cn, *.evernote.com, *.yinxiang.com
+exclude-simple-hostnames = true
 
