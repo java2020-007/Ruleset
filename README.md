@@ -9,6 +9,10 @@
 参考博客：
         ①https://yattazen.com/tutorial/clash-custom-config.html
         ②https://github.com/tindy2013/subconverter/blob/master/README-cn.md
+规则裤：
+        ①ACL4SSR的库:https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash
+        ②blackmatrix7的库:https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash
+        ③神机规则库:https://github.com/DivineEngine/Profiles/tree/master/Clash/RuleSet
 
 格式要求：
         将配置好的.ini文件 点击raw后到②转码；
