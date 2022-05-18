@@ -72,6 +72,7 @@ DOMAIN-SUFFIX,instagr.am
 
 # Reddit Services
 DOMAIN-KEYWORD,reddit
+DOMAIN-KEYWORD,redditstatic
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
