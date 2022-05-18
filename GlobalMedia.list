@@ -1,4 +1,4 @@
-# 包括Telegram Youtube Facebook Twitter Instagram Google，都走GlobalMedia.list规则集
+# 包括Telegram Youtube Facebook Twitter Instagram Google,Reddit(未写入Ruleset中),都走GlobalMedia.list规则集
 # 排除 PX TikTok Disney Netflix Bahamut Other
 
 # Telegram
