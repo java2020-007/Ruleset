@@ -1,5 +1,4 @@
-# 包括Telegram Youtube Facebook Twitter Instagram Google,(有内容未单独写入Ruleset中),都走GlobalMedia.list规则集
-# 排除 PX TikTok Disney Netflix Bahamut Other Developer
+# Telegram Youtube Facebook Twitter Instagram Google
 
 # Telegram
 DOMAIN-KEYWORD,telegram
@@ -91,8 +90,6 @@ DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
-
-################以下内容未单独加入到Ruleset中##########################
 
 # Reddit Services
 DOMAIN-SUFFIX,redditmedia.com
