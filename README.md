@@ -5,6 +5,10 @@
 用到网址：
         ①https://bianyuan.xyz/
         ②https://www.urlencoder.org/
+        
+参考博客：
+        https://yattazen.com/tutorial/clash-custom-config.html
+        https://github.com/tindy2013/subconverter/blob/master/README-cn.md
 
 格式要求：
         将配置好的.ini文件 点击raw后到②转码；
