@@ -1,5 +1,5 @@
 # 包括Telegram Youtube Facebook Twitter Instagram Google,(有内容未单独写入Ruleset中),都走GlobalMedia.list规则集
-# 排除 PX TikTok Disney Netflix Bahamut Other
+# 排除 PX TikTok Disney Netflix Bahamut Other Developer
 
 # Telegram
 DOMAIN-KEYWORD,telegram
