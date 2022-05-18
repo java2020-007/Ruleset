@@ -71,6 +71,7 @@ DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,instagr.am
 
 # Reddit Services
+DOMAIN-KEYWORD,reddit
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
