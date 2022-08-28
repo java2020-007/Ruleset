@@ -19,4 +19,7 @@
         &config=**&scv=true&fdn=false&tfo=true&emoji=true；
         转码后替换上面的 **；
         并插入到经过①转换后的链接末尾即可(订阅转换)；
+        
+ 圈X规则借鉴：
+ https://raw.githubusercontent.com/Coldvvater/Quantumult-X/master/Config/QuantumultX-Evolve.conf
          
