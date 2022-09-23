@@ -25,6 +25,7 @@
  
  - *[中国法律快查](https://github.com/RanKKI/LawRefBook)*
 
+- *[个人用户脚本收集仓库](https://github.com/Chen95a)*
 - ##### quantumult_x大佬的Github #####
 - *[kop-xiao-资源解析器](https://github.com/KOP-XIAO/QuantumultX)*
 - *[peng-ym-本地订阅转换](https://github.com/Peng-YM/Sub-Store)*
