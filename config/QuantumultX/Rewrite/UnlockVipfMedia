@@ -3,7 +3,7 @@
 # 爱奇艺
 (^https?:\/\/m\.iqiyi\.com\/v_.*) url 307 https://z1.m1907.cn/?jx=$1
 
-#优酷视频
+# 优酷视频
 (^https?:\/\/m\.youku\.com\/.*) url 307 https://z1.m1907.cn/?jx=$1
 
 # 腾讯视频 腾讯视频跳转还有点问题,需要在跳转后的页面手动刷新
