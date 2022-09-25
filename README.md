@@ -65,7 +65,6 @@
 - [anti-ad-广告过滤](https://github.com/privacy-protection-tools/anti-AD)
 - [cjxlist-广告过滤](https://github.com/cjx82630/cjxlist)
 
----
  QX懒人配置
 - *[kop-xiao](https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf)*
 - *[orz-3](https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Orz-3.conf)*
