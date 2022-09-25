@@ -23,7 +23,7 @@
  圈X规则借鉴：
  https://raw.githubusercontent.com/Coldvvater/Quantumult-X/master/Config/QuantumultX-Evolve.conf
  
- ————————————————————————————————————————————————————————————————————————————————————————————————
+ ———————————————————————————————————————————————
 
 - ##### quantumult_x大佬的Github #####
 - *[个人用户脚本收集仓库](https://github.com/Chen95a)*
@@ -94,4 +94,3 @@
 - *[clashX](https://github.com/yichengchen/clashX)*
 - *[clash-分流规则](https://github.com/Loyalsoldier/clash-rules)*
 - *[Hackl0us-规则收集](https://github.com/Hackl0us/SS-Rule-Snippet)*
-- *[]()*        
