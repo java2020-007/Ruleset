@@ -23,10 +23,10 @@
  圈X规则借鉴：
  https://raw.githubusercontent.com/Coldvvater/Quantumult-X/master/Config/QuantumultX-Evolve.conf
  
- - *[中国法律快查](https://github.com/RanKKI/LawRefBook)*
+ ————————————————————————————————————————————————————————————————————————————————————————————————
 
-- *[个人用户脚本收集仓库](https://github.com/Chen95a)*
 - ##### quantumult_x大佬的Github #####
+- *[个人用户脚本收集仓库](https://github.com/Chen95a)*
 - *[kop-xiao-资源解析器](https://github.com/KOP-XIAO/QuantumultX)*
 - *[peng-ym-本地订阅转换](https://github.com/Peng-YM/Sub-Store)*
 - *[hacklous-geoip2cn](https://github.com/Hackl0us/GeoIP2-CN)*
@@ -94,5 +94,4 @@
 - *[clashX](https://github.com/yichengchen/clashX)*
 - *[clash-分流规则](https://github.com/Loyalsoldier/clash-rules)*
 - *[Hackl0us-规则收集](https://github.com/Hackl0us/SS-Rule-Snippet)*
-- *[]()*
-         
+- *[]()*        
